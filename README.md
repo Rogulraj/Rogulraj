@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwp6wzvXxKoEmwVHbZsXUX1kzmoab3I-Y8zcSWOlOdCA&s)
 <h1 align="center">Hi 👋, I'm Rogulraj</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
