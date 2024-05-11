@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rogulraj</h1>
 <h3 align="center">MERN Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rogulraj&label=Profile%20views&color=0e75b6&style=flat" alt="rogulraj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rogulraj&label=Profile%20views&color=0e75b6&style=flat" alt="rogulraj" /> </p>
 
 - 🔭 I’m currently working on **Rental Application**
 
@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rogulraj&show_icons=true&locale=en&layout=compact" alt="rogulraj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rogulraj&show_icons=true&locale=en&layout=compact" alt="rogulraj" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rogulraj&show_icons=true&locale=en" alt="rogulraj" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rogulraj&" alt="Rogulraj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rogulraj&" alt="rogulraj" /></p>
