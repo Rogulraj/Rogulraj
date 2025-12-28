@@ -1,26 +1,10 @@
-<!--
-### Hi there 👋
-
-**Rogulraj/Rogulraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Rogulraj</h1>
 <h3 align="center">MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rogulraj&label=Profile%20views&color=0e75b6&style=flat" alt="Rogulraj" /> </p>
 
-- 🔭 I’m currently working on **Rental Application**
+- 🔭 I’m currently working on **Health Care Application**
 
 - 🌱 I’m currently learning **NextJs**
 
